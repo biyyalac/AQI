@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "485669364449",
+    "project_id": "androidsqlite-master-efae9",
+    "storage_bucket": "androidsqlite-master-efae9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485669364449:android:fbce705157f1ecf50c8da0",
+        "android_client_info": {
+          "package_name": "com.example.aqi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485669364449-b4jogp5gd2o00825g7fvbs0mt0kd742t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd6BBRGg2KCB1YCpU7fpSoY84wzv2OrSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485669364449-b4jogp5gd2o00825g7fvbs0mt0kd742t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485669364449:android:6c1560d011d73e090c8da0",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485669364449-b4jogp5gd2o00825g7fvbs0mt0kd742t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd6BBRGg2KCB1YCpU7fpSoY84wzv2OrSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485669364449-b4jogp5gd2o00825g7fvbs0mt0kd742t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485669364449:android:bd1aa5d333d746350c8da0",
+        "android_client_info": {
+          "package_name": "info.androidhive.sqlite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485669364449-b4jogp5gd2o00825g7fvbs0mt0kd742t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd6BBRGg2KCB1YCpU7fpSoY84wzv2OrSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485669364449-b4jogp5gd2o00825g7fvbs0mt0kd742t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
